@@ -11,9 +11,60 @@ y él elige el modo:
 | 4 · Psicología de marketing | 72 principios de psicología aplicados a tu oferta, tu precio y tu contenido | «Aplica psicología de marketing a mi comunidad de $29/mes» |
 | 5 · Últimos 30 días | Qué se dijo de un tema el último mes en Reddit, X, YouTube, TikTok, Hacker News y la web, resumido en español | «¿Qué se dijo de Claude Code en el último mes?» |
 
-## Instalación
+## Empieza aquí (no necesitas saber nada de IA)
 
-En Claude Code, como plugin:
+### 1. Instálala
+
+Necesitas la app de Claude en tu computadora y el plan Pro o uno más alto.
+
+1. Baja Claude en [claude.com/download](https://claude.com/download) y entra
+   con tu cuenta.
+2. Abre la pestaña **Code** y elige una carpeta vacía. Puede ser una nueva en
+   tu escritorio: ahí Claude va a guardar lo que haga para ti.
+3. Escribe `/plugin` y presiona Enter. Toca **+ Add**, luego **Add
+   marketplace**, pega `aldushmedia/skills-secretas` y toca **Sync** y después
+   **Add**.
+
+Y ya. No tienes que aprenderte comandos: de aquí en adelante le hablas normal,
+como le escribirías a un amigo.
+
+### 2. Pídele lo que necesites
+
+Cada skill se activa sola según lo que le pidas:
+
+- **Para entender algo:** «Explícame cómo funciona un reel viral,
+  interactivo». Te arma un dibujo que se mueve y te explica cada parte. Lo
+  abres en tu navegador.
+- **Para aprender algo nuevo:** «Enséñame a escribir ganchos para reels».
+  Primero te pregunta para qué lo quieres y después te da clases cortas con
+  ejercicios. La próxima vez sigue donde te quedaste.
+- **Para vender mejor:** «Aplica psicología de marketing a mi oferta: una
+  comunidad de $29 al mes». Te dice qué cambiar en tus reels, tus mensajes y tu
+  precio, con textos listos para copiar.
+- **Para saber de qué se habla:** «¿Qué se dijo de los reels en el último
+  mes?». Busca en Reddit, YouTube, Hacker News y otras páginas, y te cuenta en
+  español qué opina la gente.
+- **Para un proyecto grande:** «Encárgate de esta meta: armar un calendario de
+  7 reels sobre IA». Reparte el trabajo y te lo entrega listo. Es la más nueva,
+  así que todavía la están mejorando.
+
+### 3. Si te pide instalar algo
+
+Para un par de cosas Claude necesita un programa extra en tu computadora: uno
+para hacer los dibujos que se mueven y otro para buscar en internet. Si te lo
+pide, dile que sí y él te va diciendo qué hacer. Antes de instalar cualquier
+cosa, te pregunta.
+
+### 4. Lo que no hace
+
+No publica nada por ti ni entra a tus redes. Tú decides qué usas y qué copias.
+
+¿Quieres todos los detalles de cada skill? Están en la
+[guía completa de cada modo](skills/skills-secretas/COMO_USAR.md).
+
+## Instalación con comandos
+
+Si ya usas Claude Code en la terminal, instálala como plugin:
 
 ```
 /plugin marketplace add aldushmedia/skills-secretas
