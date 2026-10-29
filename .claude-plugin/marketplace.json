@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skills-secretas",
+  "description": "skills-secretas para Claude Code, en español",
+  "owner": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "plugins": [
+    {
+      "name": "skills-secretas",
+      "description": "Cinco skills en una, en español: Jefe de equipo (agentes en segundo plano para una meta grande, beta), Anatomía (explica algo técnico con una figura interactiva), Profe (tutor con lecciones y hojas de repaso), Psicología de marketing (72 principios aplicados a tu oferta) y Últimos 30 días (qué se dijo de un tema este mes en Reddit, X, YouTube, TikTok y la web).",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/aldushmedia/skills-secretas"
+    }
+  ]
+}
